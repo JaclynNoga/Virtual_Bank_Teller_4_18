@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\bin\Debug\Virtual_Bank_Teller_4_18.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\bin\Debug\Virtual_Bank_Teller_4_18.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\bin\Debug\Virtual_Bank_Teller_4_18.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\obj\Debug\Virtual_Bank_Teller_4_18.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\obj\Debug\Virtual_Bank_Teller_4_18.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Virtual_Bank_Teller_4_18\Virtual_Bank_Teller_4_18\obj\Debug\Virtual_Bank_Teller_4_18.csprojResolveAssemblyReference.cache
